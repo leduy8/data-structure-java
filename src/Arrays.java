@@ -16,5 +16,7 @@
 //Arrays are fast, dumb, and brutally effective.
 
 public class Arrays {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello World from Arrays");
+    }
 }
