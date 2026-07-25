@@ -1,4 +1,4 @@
-public class BinaryTree {
+public class LearnBinaryTree {
     static class TreeNode {
         int value;
         TreeNode left;
