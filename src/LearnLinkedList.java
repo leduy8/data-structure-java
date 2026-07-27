@@ -5,7 +5,7 @@ import java.util.List;
 
 public class LearnLinkedList {
     public static void main(String[] args) {
-//        learnLinkedList();
+        learnLinkedList();
         traverseLinkedList();
     }
 

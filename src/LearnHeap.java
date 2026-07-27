@@ -20,8 +20,8 @@ public class LearnHeap {
     }
 
     public static void learnPriorityQueue() {
-        // Init
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>(); // Min heap
+        // Init min heap
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
 
         minHeap.offer(5); // Add item to PriorityQueue (Auto sort)
         minHeap.offer(2);
